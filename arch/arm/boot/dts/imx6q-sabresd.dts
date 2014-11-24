@@ -16,7 +16,7 @@
 #include "imx6qdl-sabresd.dtsi"
 
 / {
-	model = "Freescale i.MX6 Quad SABRE Smart Device Board";
+	model = "iMX6 Rex Development Baseboard";
 	compatible = "fsl,imx6q-sabresd", "fsl,imx6q";
 };
 
